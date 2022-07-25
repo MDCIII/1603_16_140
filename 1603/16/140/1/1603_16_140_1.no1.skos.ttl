@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:140()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:11" ;
     skos:prefLabel "Ombella M'Poko"@fra-Latn ;
-    wdata:q7200235 "CF11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -56,7 +54,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:12" ;
     skos:prefLabel "Lobaye"@fra-Latn ;
-    wdata:q7200235 "CF12" ;
 .
 
 <urn:mdciii:1603:16:140:1:21>
@@ -65,7 +62,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:21" ;
     skos:prefLabel "Mambéré-Kadéï"@fra-Latn ;
-    wdata:q7200235 "CF21" ;
 .
 
 <urn:mdciii:1603:16:140:1:22>
@@ -74,7 +70,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:22" ;
     skos:prefLabel "Nana-Mambéré"@fra-Latn ;
-    wdata:q7200235 "CF22" ;
 .
 
 <urn:mdciii:1603:16:140:1:23>
@@ -83,7 +78,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:23" ;
     skos:prefLabel "Sangha-Mbaéré"@fra-Latn ;
-    wdata:q7200235 "CF23" ;
 .
 
 <urn:mdciii:1603:16:140:1:31>
@@ -92,7 +86,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:31" ;
     skos:prefLabel "Ouham Pendé"@fra-Latn ;
-    wdata:q7200235 "CF31" ;
 .
 
 <urn:mdciii:1603:16:140:1:32>
@@ -101,7 +94,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:32" ;
     skos:prefLabel "Ouham"@fra-Latn ;
-    wdata:q7200235 "CF32" ;
 .
 
 <urn:mdciii:1603:16:140:1:41>
@@ -110,7 +102,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:41" ;
     skos:prefLabel "Kémo"@fra-Latn ;
-    wdata:q7200235 "CF41" ;
 .
 
 <urn:mdciii:1603:16:140:1:42>
@@ -119,7 +110,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:42" ;
     skos:prefLabel "Nana-Gribizi"@fra-Latn ;
-    wdata:q7200235 "CF42" ;
 .
 
 <urn:mdciii:1603:16:140:1:43>
@@ -128,7 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:43" ;
     skos:prefLabel "Ouaka"@fra-Latn ;
-    wdata:q7200235 "CF43" ;
 .
 
 <urn:mdciii:1603:16:140:1:51>
@@ -137,7 +126,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:51" ;
     skos:prefLabel "Bamingui-Bangoran"@fra-Latn ;
-    wdata:q7200235 "CF51" ;
 .
 
 <urn:mdciii:1603:16:140:1:52>
@@ -146,7 +134,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:52" ;
     skos:prefLabel "Haute-Kotto"@fra-Latn ;
-    wdata:q7200235 "CF52" ;
 .
 
 <urn:mdciii:1603:16:140:1:53>
@@ -155,7 +142,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:53" ;
     skos:prefLabel "Vakaga"@fra-Latn ;
-    wdata:q7200235 "CF53" ;
 .
 
 <urn:mdciii:1603:16:140:1:61>
@@ -164,7 +150,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:61" ;
     skos:prefLabel "Basse-Kotto"@fra-Latn ;
-    wdata:q7200235 "CF61" ;
 .
 
 <urn:mdciii:1603:16:140:1:62>
@@ -173,7 +158,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:62" ;
     skos:prefLabel "Mbomou"@fra-Latn ;
-    wdata:q7200235 "CF62" ;
 .
 
 <urn:mdciii:1603:16:140:1:63>
@@ -182,7 +166,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:63" ;
     skos:prefLabel "Haut-Mbomou"@fra-Latn ;
-    wdata:q7200235 "CF63" ;
 .
 
 <urn:mdciii:1603:16:140:1:71>
@@ -191,6 +174,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:140:1:71" ;
     skos:prefLabel "Bangui"@fra-Latn ;
-    wdata:q7200235 "CF71" ;
 .
 
